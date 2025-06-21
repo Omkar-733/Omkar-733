@@ -41,7 +41,7 @@ class OmkarDev implements DeveloperProfile {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
     backend: ["Node.js", "Express.js", "RESTful APIs"],
     database: ["MongoDB", "MySQL", "Firebase", "Oracle"],
-    cloud: ["Vercel", "Render", "Google Cloud"],
+    cloud: ["Vercel", "Render","Infinity Free" "Google Cloud"],
     tools: ["Git", "Docker", "VS Code", "Android Studio"]
   };
 
